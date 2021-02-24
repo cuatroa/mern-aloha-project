@@ -1,0 +1,3 @@
+[submodule "aloha-project"]
+	path = aloha-project
+	url = https://git.heroku.com/aloha-project.git
